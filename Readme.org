@@ -1,12 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:17.063433
-#+TITLE: 華嚴一乘法界圖
-#+PROPERTY: CBETA_ID T45n1887A
-#+PROPERTY: ID KR6e0109
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1887A
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@HARA
+#+TITLE: 華嚴一乘法界圖 / T@HARA
+#+DATE: 2015-11-26 14:18:32.486323
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
 
-<pb:KR6e0109_T_000-0711a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0109_001.txt][華嚴一乘法界圖 1]]
