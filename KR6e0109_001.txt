@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:17.286542
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 華嚴一乘法界圖
 #+PROPERTY: CBETA_ID T45n1887A
 #+PROPERTY: ID KR6e0109
