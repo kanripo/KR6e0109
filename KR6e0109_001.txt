@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:16.878982
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 華嚴一乘法界圖
 #+PROPERTY: CBETA_ID T45n1887A
 #+PROPERTY: ID KR6e0109
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1887A
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0109_T_001-0711a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1887A¶
-
- 華嚴一乘法界圖¶
+No. 1887A¶
+華嚴一乘法界圖¶
 ¶
 
 夫大聖善教無方。應機隨病非一。迷者字¶
@@ -227,8 +226,7 @@ No.1887A¶
 論說。如十二因緣說。餘緣生諸法。准例可解。¶
 二陀羅尼法者。如下說。三即事攝法者。顯因¶
 陀及微細陀故。廣義如經。四所謂九世者。過¶
-去過去。過去現在。過去未來。現在過去。現¶
-在現在現在未來。未來過去。未來現在。未來¶
+去過去。過去現在。過去未來。現在過去。現在現在現在未來。未來過去。未來現在。未來¶
 未來世。三世相即及與相入。成其一念。總¶
 別合名故十世。一念者。約事念說也。五約位¶
 者。以六相方便。隨義消息。即可解也。六相¶
